@@ -1,4 +1,4 @@
-# Compiled Object files
+# CompileD Object files
 *.slo
 *.lo
 *.o
@@ -27,3 +27,6 @@
 *.exe
 *.out
 *.app
+
+# Directory
+C++1x/out/*
